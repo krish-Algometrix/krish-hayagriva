@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krish-hayagriva
+- 👋 Hi, I’m @krishnan chari
 - 👀 I’m passionate practioner of Statistical learning algos, Computational Intelligence, Computational Finance modelling for Risk Tech & FinTech 
 - 🌱 I’m currently learning computational finance modeling using ML/NN/NLP etc..
 - 💞️ I’m looking to collaborate on projects with specific problem solving 
