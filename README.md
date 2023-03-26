@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnan chari
 - 👀 I’m a passionate researcher & practioner of Statistical Learning,Computational Intelligence, Machine Learning & Artificial Intelligence.     
-- 🌱 I’m currently working on applications of Computational Algorithms for solving application problems across Business,Finance & Technology.
+- 🌱 My focus is application of Computational Intelligence for Financial Analytics, Fraud Risk Analytics, Financal Development-FinTech Analytics.
 - 💞️ I’m looking forwrad for an opportunity to work with open source  community projects in ML & AI space.
 - 📫 How to reach me krish.hayagriva@gmail.com
 
