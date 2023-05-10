@@ -7,4 +7,6 @@
 <!---
 krish-hayagriva/krish-hayagriva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/krish-Algometrix/krish-hayagriva/HEAD
+ 
